@@ -14,7 +14,7 @@ Chinese Introduction:
 
  Bilibili | Luogu | Email | Other Accounts
  --- | --- | --- | ---
- ~[DELTA-ZNKZZ](https://space.bilibili.com/94781005)~ </br>  ~[废蝉P](https://space.bilibili.com/348801677)~  | [elatii](https://elatii.blog.luogu.org) | vzpui7@gmail.com </br>  hissit@qq.com *(frequently)* | ~[AlphaAl2O3](https://github.com/AlphaAl2O3)~ </br> [AlfaAl2O3](https://github.com/AlfaAl2O3)
+ ~[DELTA-ZNKZZ](https://space.bilibili.com/94781005)~ </br>  ~[废蝉P](https://space.bilibili.com/348801677)~ </br> [Acuply](https://space.bilibili.com/1106804482) | [elatii](https://elatii.blog.luogu.org) | vzpui7@gmail.com </br>  hissit@qq.com *(frequently)* | ~[AlphaAl2O3](https://github.com/AlphaAl2O3)~ </br> [AlfaAl2O3](https://github.com/AlfaAl2O3)
 
 My spirit is affected by the ***"black tuna incident"***
 
@@ -27,5 +27,5 @@ What I want to show:
 [![附窗子](https://z3.ax1x.com/2021/07/08/RqRhQg.gif)](https://www.bilibili.com/video/BV1Ex411k7Dn)
 
 <!--
-![Nadine](https://z3.ax1x.com/2021/05/01/gVwKvd.gif)
+[![Nadine](https://z3.ax1x.com/2021/05/01/gVwKvd.gif)](https://www.bilibili.com/video/BV1Y4411j7rM/)
 -->

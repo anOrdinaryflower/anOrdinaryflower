@@ -24,7 +24,7 @@ I like to make plans without taking them seriously.
 
 What I want to show:
 
-[![附窗子](https://z3.ax1x.com/2021/07/08/RqRhQg.md.gif)](https://www.bilibili.com/video/BV1Ex411k7Dn)
+[![附窗子](https://z3.ax1x.com/2021/07/08/RqRhQg.gif)](https://www.bilibili.com/video/BV1Ex411k7Dn)
 
 <!--
 ![Nadine](https://z3.ax1x.com/2021/05/01/gVwKvd.gif)
